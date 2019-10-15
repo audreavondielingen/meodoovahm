@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aethohxei.copperfire.co.uk/sitemap.xml
